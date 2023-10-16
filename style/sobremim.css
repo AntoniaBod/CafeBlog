@@ -1,0 +1,21 @@
+main{
+    width: 90%; 
+    height: 500px; 
+    background-color: rgb(22, 77, 58);
+    padding: 20px;
+    margin: 20px auto; 
+    border-radius: 20px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+h1{
+    text-align: center;
+    margin: 10px;
+}
+
+#texto{
+    text-align: justify;
+    font-size: 20pt;
+    color: brown;
+}
